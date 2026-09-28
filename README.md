@@ -3,7 +3,7 @@
 
 ## About Me
 
-I’m currently a **sophomore studying Computer Science & Astronomy** at the University of Illinois Urbana-Champaign interested in software, AI, and Robotics that solve real problems. I love creating cool tech that solves problems, whether that’s intelligent tools, full-stack apps, or research prototypes. I build things, break things, and learn a lot along the way.
+I’m currently a **Junior studying Computer Science & Astronomy** at the University of Illinois Urbana-Champaign interested in software, AI, and Robotics that solve real problems. I love creating cool tech that solves problems, whether that’s intelligent tools, full-stack apps, or research prototypes. I build things, break things, and learn a lot along the way.
 
 
 ## Skills & Technologies
